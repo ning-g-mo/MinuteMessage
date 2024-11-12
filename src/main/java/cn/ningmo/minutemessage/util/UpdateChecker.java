@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class UpdateChecker {
     private final MinuteMessage plugin;
-    private final String MODRINTH_PROJECT_ID = "minutemessage"; // 替换为你的项目ID
+    private final String MODRINTH_PROJECT_ID = "ZcUDhbk3"; // 更新为正确的项目ID
 
     public UpdateChecker(MinuteMessage plugin) {
         this.plugin = plugin;
@@ -47,7 +47,6 @@ public class UpdateChecker {
 
     private String parseVersion(String json) {
         try {
-            // 简单的 JSON 解析，你可能需要使用更好的 JSON 解析库
             return json.split("\"version_number\":\"")[1].split("\"")[0];
         } catch (Exception e) {
             return plugin.getDescription().getVersion();
