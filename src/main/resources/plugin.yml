@@ -1,0 +1,14 @@
+name: MinuteMessage
+version: '1.0.0'
+main: cn.ningmo.minutemessage.MinuteMessage
+api-version: '1.20'
+author: 柠枺
+description: 一个支持多语言的定时消息发送插件
+website: https://github.com/ningmengmao/minutemessage
+# 添加 PlaceholderAPI 作为软依赖
+softdepend: [PlaceholderAPI]
+commands:
+  minutemessage:
+    description: MinuteMessage 插件命令
+    aliases: [mm]
+    permission: minutemessage.admin 

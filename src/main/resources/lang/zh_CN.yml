@@ -1,0 +1,14 @@
+prefix: "&7[&bMinuteMessage&7] "
+commands:
+  reload: "&a配置重载成功！"
+  no-permission: "&c你没有权限执行此命令！"
+  help:
+    - "&b=== MinuteMessage 帮助 ==="
+    - "&f/mm reload &7- 重载配置"
+    - "&f/mm list &7- 查看所有消息组"
+    - "&f/mm interval <组名> <分钟> &7- 设置消息间隔"
+    - "&f/mm toggle join &7- 开关加入消息"
+    - "&f/mm toggle quit &7- 开关退出消息"
+    - "&f/mm toggle dimension &7- 开关维度切换消息"
+messages:
+  update-available: "&e发现新版本: &f%version% &7(当前: %current_version%)" 
