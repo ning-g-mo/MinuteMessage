@@ -1,0 +1,14 @@
+prefix: "&7[&bMinuteMessage&7] "
+commands:
+  reload: "&aConfiguration rechargée avec succès !"
+  no-permission: "&cVous n'avez pas la permission d'exécuter cette commande !"
+  help:
+    - "&b=== Aide de MinuteMessage ==="
+    - "&f/mm reload &7- Recharger la configuration"
+    - "&f/mm list &7- Afficher tous les groupes de messages"
+    - "&f/mm interval <nom_groupe> <minutes> &7- Définir l'intervalle des messages"
+    - "&f/mm toggle join &7- Activer/désactiver les messages de connexion"
+    - "&f/mm toggle quit &7- Activer/désactiver les messages de déconnexion"
+    - "&f/mm toggle dimension &7- Activer/désactiver les messages de changement de dimension"
+messages:
+  update-available: "&eNouvelle version trouvée: &f%version% &7(Courante: %current_version%)"

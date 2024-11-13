@@ -17,7 +17,7 @@ A multilingual timed message plugin for Minecraft servers.
 ## Status
 
 - Under development
-- Known issues: PlaceholderAPI variables support is being fixed
+- If you want to submit more language translations, please submit a PR.
 
 ## Usage
 

@@ -8,7 +8,7 @@
 settings:
   # 是否检查更新
   check-update: true
-  # 默认语言 (目前支持: zh_CN)
+  # 默认语言 (目前支持: zh_CN，zb_TW，en_US，fr_FR)
   language: 'zh_CN'
   # 玩家相关消息设置
   player:
