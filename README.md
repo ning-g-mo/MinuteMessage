@@ -160,7 +160,7 @@ messages:
 - [x] 基础消息系统
 - [x] 多语言支持
 - [x] 玩家事件消息
-- [ ] PlaceholderAPI 支持修复
+- [x] PlaceholderAPI 支持修复
 - [ ] 更多消息类型
 - [ ] 消息模板系统
 
