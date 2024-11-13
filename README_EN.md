@@ -160,7 +160,7 @@ messages:
 - [x] Basic message system
 - [x] Multi-language support
 - [x] Player event messages
-- [ ] PlaceholderAPI support fix
+- [x] PlaceholderAPI support fix
 - [ ] More message types
 - [ ] Message template system
 
