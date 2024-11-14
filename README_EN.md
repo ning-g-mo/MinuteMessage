@@ -4,6 +4,8 @@
 
 A multilingual timed message plugin for Minecraft servers.
 
+### [discord](https://discord.gg/aq6FUm4z)
+
 ## Features
 
 - 🌏 Multi-language support
