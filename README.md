@@ -4,6 +4,8 @@
 
 一个支持多语言的 Minecraft 定时消息发送插件。
 
+### [加入频道](https://discord.gg/aq6FUm4z)
+
 ## 功能特点
 
 - 🌏 多语言支持
