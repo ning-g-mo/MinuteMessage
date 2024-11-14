@@ -5,6 +5,7 @@
 一个支持多语言的 Minecraft 定时消息发送插件。
 
 ### [加入频道](https://discord.gg/aq6FUm4z)
+### [加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=8-Gby9m7Y4iRcWxXPjDZJhlX-g8e2yhl&authKey=ZMrJ4gF90gHGOxdl%2BWqsM9kOJHZ%2By2FSL%2FC5fqj9nEj4Al0HWxYOdnV46z5KPhmr&noverify=0&group_code=603902151)
 
 ## 功能特点
 
